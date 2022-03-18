@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka&display=swap");
+
+body {
+  padding-bottom: 80px;
+}
+
+.banner-card {
+  position: relative;
+  padding-top: 3rem;
+}
+
+.banner-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.banner-text {
+  position: absolute;
+  top: 20%;
+  color: whitesmoke;
+  padding: 50px;
+}
+
+.banner-text h1 {
+  font-size: 80px;
+  font-family: "Fredoka", sans-serif;
+  line-height: 0.8;
+}
+
+.banner-text p {
+  font-size: 20px;
+}
+.banner-text img {
+  top: 10%;
+}
+
+span {
+  color: #00b8f1;
+}
+
+.media-link img {
+  border-radius: 20px;
+}
+
+.media-text {
+  background-color: #00b8f1;
+  border-radius: 20px;
+  padding-bottom: 12px;
+}
+
+.media-text h1 {
+  color: white;
+  letter-spacing: 0.5rem;
+}
+
+.media-text p {
+  color: white;
+  line-height: 0.5rem;
+}
+
+.card {
+  padding-left: 2rem;
+}
+
+.end-media {
+  background-color: #00b8f1;
+  padding-bottom: 5px;
+  border-radius: 20px;
+}
+
+.end-media h1 {
+  color: bisque;
+}
+
+.end-media p {
+  color: bisque;
+}
